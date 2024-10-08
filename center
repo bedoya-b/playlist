@@ -2,11 +2,11 @@
   "songs": [
     {
       "bg": "#c9bea28f",
-      "artist": "sickick",
-      "songName": "talking to the moon (bruno mars remix)",
+      "artist": "Adolecentes Orquesta",
+      "songName": "Virgen",
       "files": {
-        "song": "Adolescent's Orquesta - Virgen (Letra Oficial).mp3",
-        "cover": "virgen.jpg"
+        "song": "https://github.com/bedoya-b/playlist/raw/refs/heads/main/Adolescent's%20Orquesta%20-%20Virgen%20(Letra%20Oficial).mp3",
+        "cover": "https://github.com/bedoya-b/playlist/blob/89e3cdc7cd03f77b897cb6b9f40296118e6ec04d/virgen.jpg"
       }
     },
     {
